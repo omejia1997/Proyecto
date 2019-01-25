@@ -1,0 +1,17 @@
+	=>>> TIENDA Y PANADERIA<<<==
+	FACTURA
+CLIENTE: Consumidor Final
+DIRECCION: -------
+CI: 999999999
+
+
+Cantidad	Producto	precio		precio total
+2		KATABOOM		0.5		1.0
+
+3		HUESITO		0.5		1.5
+
+4		CANELA		0.5		2.0
+
+					Subtotal: 4.5
+					IVA 12%: 0.53999996
+					Valor a Pagar: 0.0
